@@ -1,4 +1,4 @@
-function apagaTodosTweets() {
+function deleteAllTweets() {
 
     var f = function() {
         try {
